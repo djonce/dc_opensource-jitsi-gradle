@@ -4,6 +4,8 @@
     <facet type="android" name="Android">
       <configuration>
         <option name="UPDATE_PROPERTY_FILES" value="true" />
+        <option name="ENABLE_MULTI_DEX" value="true" />
+        <option name="MINIMAL_MAIN_DEX" value="true" />
       </configuration>
     </facet>
   </component>
@@ -13,7 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Android 4.4.2 Google APIs (x86 System Image)" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library>
@@ -30,4 +32,3 @@
     </orderEntry>
   </component>
 </module>
-
