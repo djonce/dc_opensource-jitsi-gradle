@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="librerías complementarias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/bccontrib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/bouncycastle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/browserlauncher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/callhistory.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/certificate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/contactlist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/contactsource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/credentialsstorage.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/defaultresources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/dnsservice.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/filehistory.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/globaldisplaydetails.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/history.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/httpcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/httputil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/libjitsi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/metahistory.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/msghistory.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/muc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/netaddr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/notification-service.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/notification-wiring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/otr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/plugin-loggingutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/protocol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/replacement.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/resourcemanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/sdes4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/smack-sasl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/sysactivitynotifications.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/systray-service.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/ui-service.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/updateservice.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/zrtp4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/java-stubs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/osgi.core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/smack-sasl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/java-stubs.jar!/org/jitsi/android/util" />
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/osgi.core.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>

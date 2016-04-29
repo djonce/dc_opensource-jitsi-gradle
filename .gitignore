@@ -1,7 +1,9 @@
 bin
 gen
-libs
+-crap
+out
 .gitignore.swp
 *.iws
+/out
 cache.properties
 local.properties
