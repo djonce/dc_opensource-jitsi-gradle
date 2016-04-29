@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jitsi.iml" filepath="$PROJECT_DIR$/.idea/modules/jitsi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jitsi-android/jitsi-android.iml" filepath="$PROJECT_DIR$/.idea/modules/jitsi-android/jitsi-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests/tests.iml" filepath="$PROJECT_DIR$/.idea/modules/tests/tests.iml" />
     </modules>
   </component>
 </project>
