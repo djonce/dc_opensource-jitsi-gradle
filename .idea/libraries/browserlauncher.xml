@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="browserlauncher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/browserlauncher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

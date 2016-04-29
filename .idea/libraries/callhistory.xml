@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="callhistory">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/callhistory.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,56 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+
+        //agrega la opción para superar el límite de 64k métodos en el dex
+        //http://blog.osom.info/2014/10/generating-main-dex-list-file.html
+        multiDexEnabled false
+
+
+        //importar la tarea de ant para construir el objetivo
+        ant.importBuild('build.xml')
+    }
+
+    buildTypes {
+        release {
+            //el nombre de la propiedad cambió runProguard → minifyEnabled
+            //http://stackoverflow.com/questions/20115391/gradle-and-proguard-could-not-find-method-runproguard-for-arguments-true#20116355
+            minifyEnabled false
+            debuggable false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+
+        debug {
+            debuggable true
+        }
+    }
+
+
+
+    dexOptions {
+        javaMaxHeapSize "2g"
+        incremental  true;
+        preDexLibraries  false
+
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+
+
+}
+

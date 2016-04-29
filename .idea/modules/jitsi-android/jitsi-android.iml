@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":jitsi-android" external.linked.project.path="$MODULE_DIR$/../../../jitsi-android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="jitsi" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":jitsi-android" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="SELECTED_TEST_ARTIFACT" value="_android_test_" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <option name="ASSEMBLE_TEST_TASK_NAME" value="assembleDebugAndroidTest" />
+        <option name="COMPILE_JAVA_TEST_TASK_NAME" value="compileDebugAndroidTestSources" />
+        <afterSyncTasks>
+          <task>generateDebugAndroidTestSources</task>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../jitsi-android/src/main/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/classes/debug" />
+    <output-test url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/classes/androidTest/debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../jitsi-android">
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/r/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/aidl/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/res/rs/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/r/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/res/rs/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/androidTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../jitsi-android/src/androidTest/rs" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/blame" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/dependency-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/exploded-aar/com.android.support/multidex-instrumentation/1.0.1/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/jniLibs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/lint" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/multi-dex" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/res" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/rs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/sourceFolderJavaResources" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/intermediates/transforms" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/reports" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/test-results" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jitsi-android/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="metahistory" level="project" />
+    <orderEntry type="library" exported="" name="contactlist" level="project" />
+    <orderEntry type="library" exported="" name="ui-service" level="project" />
+    <orderEntry type="library" exported="" name="zrtp4j" level="project" />
+    <orderEntry type="library" exported="" name="bccontrib" level="project" />
+    <orderEntry type="library" exported="" name="smack-sasl" level="project" />
+    <orderEntry type="library" exported="" name="certificate" level="project" />
+    <orderEntry type="library" exported="" name="credentialsstorage" level="project" />
+    <orderEntry type="library" exported="" name="defaultresources" level="project" />
+    <orderEntry type="library" exported="" name="notification-service" level="project" />
+    <orderEntry type="library" exported="" name="sysactivitynotifications" level="project" />
+    <orderEntry type="library" exported="" name="protocol" level="project" />
+    <orderEntry type="library" exported="" name="bouncycastle" level="project" />
+    <orderEntry type="library" exported="" name="plugin-loggingutils" level="project" />
+    <orderEntry type="library" exported="" name="callhistory" level="project" />
+    <orderEntry type="library" exported="" name="contactsource" level="project" />
+    <orderEntry type="library" exported="" name="netaddr" level="project" />
+    <orderEntry type="library" exported="" name="sdes4j" level="project" />
+    <orderEntry type="library" exported="" name="support-v4-23.0.1" level="project" />
+    <orderEntry type="library" exported="" name="appcompat-v7-23.0.1" level="project" />
+    <orderEntry type="library" exported="" name="support-annotations-23.0.1" level="project" />
+    <orderEntry type="library" exported="" name="osgi.core" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="multidex-instrumentation-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="msghistory" level="project" />
+    <orderEntry type="library" exported="" name="libjitsi" level="project" />
+    <orderEntry type="library" exported="" name="java-stubs" level="project" />
+    <orderEntry type="library" exported="" name="globaldisplaydetails" level="project" />
+    <orderEntry type="library" exported="" name="httputil" level="project" />
+    <orderEntry type="library" exported="" name="history" level="project" />
+    <orderEntry type="library" exported="" name="updateservice" level="project" />
+    <orderEntry type="library" exported="" name="otr" level="project" />
+    <orderEntry type="library" exported="" name="log4j-1.2.8" level="project" />
+    <orderEntry type="library" exported="" name="filehistory" level="project" />
+    <orderEntry type="library" exported="" name="dnsservice" level="project" />
+    <orderEntry type="library" exported="" name="notification-wiring" level="project" />
+    <orderEntry type="library" exported="" name="multidex-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="util" level="project" />
+    <orderEntry type="library" exported="" name="resourcemanager" level="project" />
+    <orderEntry type="library" exported="" name="systray-service" level="project" />
+    <orderEntry type="library" exported="" name="muc" level="project" />
+    <orderEntry type="library" exported="" name="browserlauncher" level="project" />
+    <orderEntry type="library" exported="" name="replacement" level="project" />
+    <orderEntry type="library" exported="" name="httpcore" level="project" />
+  </component>
+</module>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httputil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jitsi-android/libs/httputil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

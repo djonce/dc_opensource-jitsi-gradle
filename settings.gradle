@@ -1,1 +1,2 @@
 include ':jitsi-android'
+include ':tests'
